@@ -1,0 +1,12 @@
+# Blender 5.2.3 LTS MTL File: 'limo.blend'
+# www.blender.org
+
+newmtl Limosine
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.800000 0.800000 0.800000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Limosine_256x128_32.png
