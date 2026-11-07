@@ -1,0 +1,42 @@
+# Blender 5.2.3 LTS MTL File: '3wheeler.blend'
+# www.blender.org
+
+newmtl Pete
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/PeteUV.png
+map_d C:/PeteUV.png
+
+newmtl VengeanceBits
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/TDRVengeanceBits256.png
+
+newmtl VengeanceUV
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ke C:/TDRVengeanceUV512Emission.png
+
+newmtl glass
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.000000
+illum 6
+map_Kd C:/DARK_glass1_64x64_32.tga
